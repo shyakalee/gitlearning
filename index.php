@@ -11,6 +11,9 @@
                 Rem quis cumque quidem modi minima nemo quas consequuntur error earum excepturi sit tempore quam pariatur nam, 
                 culpa quisquam at voluptatum sunt. 
             </small>
+
+            Added a login page
+
         </span>
     </body>
 </html>
